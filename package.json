@@ -1,0 +1,17 @@
+{
+    "name": "wljs-alt-cell-controls",
+    "version": "0.0.1",
+    "description": "Alterate the layout of controlling buttons in the cell frame",
+    "wljs-meta": {
+      "frontend": [
+        "Frontend.wl"        
+      ],
+      "priority": -100,
+      "category": "Editor"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/JerryI/wljs-alt-cell-controls"
+    }
+  }
+  
